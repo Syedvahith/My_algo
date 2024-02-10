@@ -1,0 +1,12 @@
+smartapi==1.0.0
+smartapi-python==1.8.0
+streamlit
+newsapi-python
+yfinance
+plotly
+datetime
+urllib3
+pandas
+json5
+numpy
+pyotp
