@@ -7,7 +7,7 @@ import datetime as dt
 
 
 
-obj = SmartConnect(api_key="BAo9kY33")
+obj = SmartConnect(api_key="Your key")
 data = obj.generateSession(, pyotp.TOTP("").now())
 
 
